@@ -1,0 +1,141 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Shanisha Patel. Fictional person for preview purposes :) I'm working with newest front-end frameworks like HTML, React and JavaScript. What you are seeing now is portfolio template from ShanishaPatel. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Online Taxi Booking",
+        "startDate": "2023",
+        "description": "Personal project for study subject. The most expanded website I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. It is use for travelling. You can easily book taxi from our website.",
+        "images": [
+          "images/portfolio/animal-shelter/1.jpg",
+          "images/portfolio/animal-shelter/2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Efficient Doctor Patient Portal",
+        "startDate": "2023",
+        "description": "Personal project for study subject. EDPP(Efficient Doctor Patient Portal) You can book online appoinment. Enabled online appointment booking with downloadable appointment details. Added functionality to browse and select from multiple available doctors. Extended features to ensure smooth user interaction and efficient appointment management",
+        "images": [
+          "images/portfolio/photography/1.jpg",
+          "images/portfolio/photography/2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          }
+        ]
+      },
+      {
+        "title": "3D Object Viewer",
+        "startDate": "2015",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "title": "Bechlour of Computer Application",
+        "years": "2021 - 2024",
+        "icon": "fa fa-graduation-cap",
+        "mainTech": [
+          "My Journey"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "React",
+          ".NET Core",
+          "PHP",
+          "Angular Material"
+        ]
+      },
+      {
+        "title": " Learning React & Building My Portfolio",
+        "years": "2023 - Present",
+        "icon": "fab fa-react",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "React.js",
+          "Components",
+          "Props",
+          "State Management",
+          "React Router",
+          "React Hooks",
+          "Context API",
+          "Redux",
+          "Material-UI"
+        ]
+      },
+      {
+        "title": "Exploring Version Control & Collaboration ",
+        "years": "2023 - Present",
+        "icon": "fab fa-github",
+        "mainTech": [
+          "Github"
+        ],
+        "technologies": [
+          "Git",
+          "Github",
+          "Branching",
+          "Pull Requests",
+          "Push Requests"
+        ]
+      }
+    ]
+  }
